@@ -1,1 +1,3 @@
-let mapToNegativize = []; 
+let  = []; 
+
+function mapToNegativize(arr){
