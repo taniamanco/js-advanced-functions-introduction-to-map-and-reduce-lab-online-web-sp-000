@@ -34,7 +34,7 @@ function mapToSquare(arr){
   return newArr;
 }
 
-function reduceToTotal(arr, startingPoint =0) {
+function reduceToTotal(arr, startingPoint = 0) {
   let total = startingPoint
   for (let i = 0; i < arr.length; i++ ) {
     total = total + arr[i]
