@@ -1,4 +1,3 @@
-
 function mapToNegativize(arr){
   let newArr = []; 
 
